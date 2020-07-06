@@ -11,19 +11,19 @@ else:
     print("Your trianlge is an scalene tiangle")    #no sides equal"""
 
 #code for number of days in month
-"""month = input("Enter the name of a month: ")
+month = input("Enter the name of a month: ")
 
-if month == ("February" or "2"):
+if month == ("February") or int("2")):
     print("this month has 28/29 days")
     
-elif month ("April" or "June" or "September" or "November" or "4" or "6" or "9" or "11"):
+elif month ("April" or "June" or "September" or "November") or int("4" or "6" or "9" or "11"):
     print("this month has 30 days")
     
-elif month ("January" or "March" or "May" or "July" or "August" or "October" or "December" or "1" or "3" or "5" or "7" or "8" or "10" or "12"):
-    print("this month has 30 days")
+elif month ("January" or "March" or "May" or "July" or "August" or "October" or "December") or int("1" or "3" or "5" or "7" or "8" or "10" or "12"):
+    print("this month has 31 days")
     
 else:
-    print("The month you have entered is invalid")"""
+    print("The month you have entered is invalid")
 
 #code to find given character is alphabet, number or special character
 """ch = input("Enter any alphabet, number or special character:")
