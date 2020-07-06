@@ -13,7 +13,7 @@ else:
 #code for number of days in month
 """month = input("Enter the name of a month: ")
 
-if month == ("February") or int("2"):
+if month == ("February") or int("2")):
     print("this month has 28/29 days")
     
 elif month ("April" or "June" or "September" or "November") or int("4" or "6" or "9" or "11"):
